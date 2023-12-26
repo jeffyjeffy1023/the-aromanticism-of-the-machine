@@ -16,6 +16,7 @@
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL https://update.greasyfork.org/scripts/10976/Replace%20Text%20On%20Webpages.user.js
 // @updateURL https://update.greasyfork.org/scripts/10976/Replace%20Text%20On%20Webpages.meta.js
+// Based on https://greasyfork.org/en/scripts/10976-replace-text-on-webpages/code
 // ==/UserScript==
 (function () {
     'use strict';
@@ -39,7 +40,7 @@
 
 
     ///////////////////////////////////////////////////////
-    '':''};
+    'eroticism':'aromanticism'};
 
 
 
