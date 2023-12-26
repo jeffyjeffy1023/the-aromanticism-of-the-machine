@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name           Replace Text On Webpages
+// @name           Aromanticism of the Machine
 // @namespace      http://userscripts.org/users/23652
 // @description    Replaces text on websites. Now supports wildcards in search queries. Won't replace text in certain tags like links and code blocks
 // @include        http://*
