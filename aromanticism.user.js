@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name           Aromanticism of the Machine
 // @namespace      http://userscripts.org/users/23652
-// @description    Replaces text on websites. Now supports wildcards in search queries. Won't replace text in certain tags like links and code blocks
+// @author Jeffy aka catboybeebop
+// @description    Replaces "eroticism" with "aromanticism". on websites. Made with love, but no romance.
 // @include        http://*
 // @include        https://*
 // @include        file://*
@@ -12,11 +13,10 @@
 // @exclude        https://userscripts.org/scripts/edit/*
 // @exclude        https://userscripts.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version        1.1.1
+// @version        1.1.2
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL https://github.com/jeffyjeffy1023/the-aromanticism-of-the-machine/raw/main/aromanticism.user.js
 // @updateURL https://github.com/jeffyjeffy1023/the-aromanticism-of-the-machine/raw/main/aromanticism.user.js
-// @author Jeffy aka catboybeebop
 // Based on https://greasyfork.org/en/scripts/10976-replace-text-on-webpages/code
 // ==/UserScript==
 (function () {
