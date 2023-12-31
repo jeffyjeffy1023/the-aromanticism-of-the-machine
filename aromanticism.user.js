@@ -13,7 +13,7 @@
 // @exclude        https://userscripts.org/scripts/edit/*
 // @exclude        https://userscripts.org/scripts/edit_src/*
 // @copyright      JoeSimmons
-// @version        1.1.2
+// @version        1.1.3
 // @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // @downloadURL https://github.com/jeffyjeffy1023/the-aromanticism-of-the-machine/raw/main/aromanticism.user.js
 // @updateURL https://github.com/jeffyjeffy1023/the-aromanticism-of-the-machine/raw/main/aromanticism.user.js
