@@ -34,11 +34,12 @@
 
 
         // Syntax: 'Search word' : 'Replace word',
-        'your a' : 'you\'re a',
-        'imo' : 'in my opinion',
-        'im\\*o' : 'matching an asterisk, not a wildcard',
-        '/\\bD\\b/g' : '[D]',
+       //  'your a' : 'you\'re a',
+       //  'imo' : 'in my opinion',
+       // 'im\\*o' : 'matching an asterisk, not a wildcard',
+       // '/\\bD\\b/g' : '[D]',
 
+    // Forgot to comment these examples out before, I'm really sorry.
 
     ///////////////////////////////////////////////////////
     'eroticism':'aromanticism'};
